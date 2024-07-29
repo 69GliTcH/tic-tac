@@ -144,7 +144,7 @@ const App = () => {
       <div className="main-div">
         <div className="container1">
           <header>
-            <h1>Tic Tac Toe</h1>
+            <h1>Tic Tac Clash</h1>
           </header>
           <main>
             <button onClick={playOnlineClick} className="play-button">
@@ -187,7 +187,7 @@ const App = () => {
         </div>
       </div>
       <div>
-        <h1 className="game-heading water-background">Tic Tac Toe</h1>
+        <h1 className="game-heading water-background">Tic Tac Clash</h1>
         <div className="square-wrapper">
           {gameState.map((arr, rowIndex) =>
             arr.map((e, colIndex) => {
