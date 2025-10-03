@@ -152,7 +152,7 @@ const App = () => {
             </button>
           </main>
           <footer>
-            <p>Developed by <a href="https://sakshamverma.netlify.app" className="portf">Saksham Verma</a>.</p>
+            <p>Developed by <a href="https://www.linkedin.com/in/shubh-maheshwari-580775223/" className="portf">Shubh Maheshwari</a>.</p>
           </footer>
         </div>
       </div>
@@ -165,7 +165,7 @@ const App = () => {
       <div className="waiting">
         <span><p>MATCHMAKING</p><div className="dot"></div></span><br />
         <p className="wait">Wait while we find you an opponent.</p>
-        <p>Meanwhile check out more projects <br/> by <a href="https://sakshamverma.netlify.app" className="portf">Saksham Verma</a>.</p>
+        <p>Meanwhile check out more projects <br/> by <a href="https://github.com/shubh-maheshwari" className="portf">Shubh Maheshwari</a>.</p>
       </div>
     );
   }
